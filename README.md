@@ -1,5 +1,5 @@
 <h1 align="center">I'm James Marius Santos</h1>
-<h3 align="center">A passionate 2nd year College Student from the Philippines</h3>
+<h3 align="center">A passionate 2nd year College Student from NEUST</h3>
 
 
 - 🌱 I’m currently learning **html, css, java, javascript**
